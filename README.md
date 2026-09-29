@@ -307,7 +307,6 @@ This repository is a work in progress.
 
 New topics, commands, examples, labs, troubleshooting scenarios, and automation examples will be added over time.
 
-[████████████░░░░░░░░] Learning in Progress
 
 🤝 Contributions
 
