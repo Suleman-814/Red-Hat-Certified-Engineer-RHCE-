@@ -318,6 +318,7 @@ Open an issue
 Submit a pull request
 Suggest a new topic
 Share additional practical examples
+
 ⚠️ Disclaimer
 
 This is an independent educational repository and is not affiliated with or endorsed by Red Hat.
@@ -345,6 +346,6 @@ If you find this repository useful for your Linux or RHCE journey, consider givi
 
 Learn → Practice → Break → Troubleshoot → Automate → Repeat
 
-Happy Learning! 🚀
+Happy Learning! 
 
 **Thank You**
