@@ -348,4 +348,6 @@ Learn → Practice → Break → Troubleshoot → Automate → Repeat
 
 Happy Learning! 
 
+**Thank You!!**
+
 **Thank You**
